@@ -2,7 +2,9 @@
 
 **Project Manager | Data-Driven Operations | Transitioning to Tech**
 
-Welcome to my GitHub. I come from the VFX (Visual Effects) world, where I learned to make fast decisions with incomplete information and deliver on time—even when everything changed halfway through. Today, I'm bringing that operational discipline into tech, combining project management with data analytics to help teams close the gap between what's planned and what actually gets delivered.
+Welcome to my GitHub. My background is delivering high-stakes technical projects; my focus is using data to make sure they run efficiently. Combining 5+ years of end-to-end delivery with data analytics, I leverage SQL, Python, and Tableau/Power BI to transform complex operational datasets into diagnostic dashboards, actionable KPIs, and continuous improvement workflows that optimize performance and support strategic decisions.
+
+My foundation was built leading high-stakes Visual Effects and technical productions, scaling departments from scratch and steering multidisciplinary teams of up to 40 across multiple geographies. I specialize in cross-functional stakeholder alignment, agile iteration, and decisive problem-solving in ambiguous, time-critical environments. I eliminate operational roadblocks, manage risk effectively, and cultivate high-performing cultures
 
 ---
 
@@ -41,8 +43,7 @@ Welcome to my GitHub. I come from the VFX (Visual Effects) world, where I learne
 
 I stopped defending decisions with intuition and started building the tools to defend them with data. At Ingenuity Studios, I built a resource allocation model (budgeted vs. actual hours) that held on-time delivery at **90–95%** across 5–8 projects per quarter. That's the throughline into the roles I'm targeting: **project management where the "gut call" gets replaced with a number I can stand behind.**
 
-For a deeper look at my work and proof points, check out my **[Data Analytics Portfolio](https://micheleqgf.github.io/MicheleQuere.github.io/)** or my **[Resume](https://micheleqgf.github.io/MicheleQuere.github.io/)**.
-
+For a deeper look at my work and proof points, check out my **[Data Analytics Portfolio](https://micheleqgf.github.io/MicheleQuere.github.io/)** 
 ---
 
 ## 📂 My Repositories
